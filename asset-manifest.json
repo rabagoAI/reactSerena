@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactSerena/static/css/main.a15d3e8b.css",
+    "main.js": "/reactSerena/static/js/main.04d6efad.js",
+    "static/js/453.09a8c62f.chunk.js": "/reactSerena/static/js/453.09a8c62f.chunk.js",
+    "index.html": "/reactSerena/index.html",
+    "main.a15d3e8b.css.map": "/reactSerena/static/css/main.a15d3e8b.css.map",
+    "main.04d6efad.js.map": "/reactSerena/static/js/main.04d6efad.js.map",
+    "453.09a8c62f.chunk.js.map": "/reactSerena/static/js/453.09a8c62f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15d3e8b.css",
+    "static/js/main.04d6efad.js"
+  ]
+}
